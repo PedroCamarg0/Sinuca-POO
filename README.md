@@ -45,7 +45,7 @@ The project includes the following visual assets:
    ```bash
    java Main
    ```
-
+.
 ## 🛠️ Technologies Used
 
 - Java SE
